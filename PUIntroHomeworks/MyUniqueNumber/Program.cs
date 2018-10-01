@@ -8,6 +8,7 @@ namespace MyUniqueNumber
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("sasdadad");
+            Console.WriteLine("Hello plz work :D");
         }
     }
 }
