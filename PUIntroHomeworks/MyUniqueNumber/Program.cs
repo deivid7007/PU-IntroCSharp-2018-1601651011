@@ -10,6 +10,7 @@ namespace MyUniqueNumber
             Console.WriteLine("sasdadad");
             Console.WriteLine("Hello plz work :D");
             Console.WriteLine("Hello plz work :D");
+            Console.WriteLine("TEdst");
         }
     }
 }
